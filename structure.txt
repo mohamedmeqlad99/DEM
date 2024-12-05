@@ -1,0 +1,40 @@
+.
+├── airflow
+│   ├── Dag Authoring.md
+│   └── DAG.md
+├── databricks
+│   ├── Catalyst Optimizer.md
+│   ├── Databricks and Apache spark.md
+│   ├── Databricks Architecture.md
+│   ├── data bricks data governance.canvas
+│   ├── Data bricks.md
+│   ├── Databricks_Querying_Study_Notes.md
+│   ├── databricks structured streaming.md
+│   ├── Data bricks Workflows and Jobs.md
+│   ├── data governance in data bricks.md
+│   ├── exam question.md
+│   ├── Introduction.md
+│   ├── Tungsten optimizer.md
+│   └── views in data bricks.md
+├── DCMP
+│   ├── CDMP.md
+│   ├── data architecture.md
+│   ├── Data Bias and Its Types.md
+│   ├── data ethics.md
+│   ├── Data_Governance_Notebook.md
+│   ├── data integration.md
+│   ├── Data modeling.md
+│   ├── Data security.md
+│   ├── Goals of Data Ethics.md
+│   ├── introduction.md
+│   ├── Master data.md
+│   ├── Pasted image 20241025213659.png
+│   ├── Risks of Unethical Data Handling.md
+│   ├── Study plan.md
+│   └── Untitled.canvas
+├── images
+├── main.md
+├── README.md
+└── structure.txt
+
+5 directories, 33 files
