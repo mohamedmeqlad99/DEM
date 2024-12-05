@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"8b9c391af8fd76f6","x":-160,"y":-240,"width":250,"height":60,"type":"text","text":"    data management "},
+		{"id":"6ac475cb929c7418","x":-360,"y":0,"width":250,"height":60,"type":"text","text":"    data ethics"}
+	],
+	"edges":[
+		{"id":"de791f2575c7fc64","fromNode":"8b9c391af8fd76f6","fromSide":"bottom","toNode":"6ac475cb929c7418","toSide":"top"}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"1008943b7c0c0cc3","type":"text","text":"data governance model","x":-160,"y":-280,"width":250,"height":60},
+		{"id":"435f4f3908224380","type":"text","text":"    grant","x":-440,"y":-120,"width":250,"height":60},
+		{"id":"e6060b5ce7f42883","type":"text","text":"    revoke","x":-100,"y":-85,"width":250,"height":50},
+		{"id":"921b5e7240bde223","type":"text","text":"    deny","x":200,"y":-95,"width":250,"height":60},
+		{"id":"821e627ee6d9a483","type":"text","text":"```\ngrant privilage on data_object to user_or_group\n```","x":-475,"y":80,"width":500,"height":80},
+		{"id":"7ac974c34cb5bc73","type":"text","text":"    catalog","x":160,"y":50,"width":250,"height":60},
+		{"id":"a48fc4f171689092","type":"text","text":"data objects","x":-405,"y":0,"width":180,"height":50},
+		{"id":"cf67a2d408fb55b2","type":"text","text":"    Schema","x":160,"y":180,"width":250,"height":60},
+		{"id":"0778e8cbc2a7bea3","x":260,"y":-280,"width":250,"height":60,"type":"text","text":"SHOW grants "},
+		{"id":"5d12241eee68522b","type":"text","text":"     view","x":540,"y":245,"width":250,"height":60},
+		{"id":"0c6ae437dc7ba986","type":"text","text":"     Table","x":410,"y":365,"width":250,"height":60},
+		{"id":"98032fe39b3adb3d","type":"text","text":"    Function","x":135,"y":365,"width":250,"height":60},
+		{"id":"f04605acb3343924","x":-515,"y":190,"width":605,"height":410,"type":"file","file":"DCMP/Data_Governance_Notebook.md"}
+	],
+	"edges":[
+		{"id":"ee2dba3cb0c7afb0","fromNode":"1008943b7c0c0cc3","fromSide":"bottom","toNode":"435f4f3908224380","toSide":"top"},
+		{"id":"8c33697168af9034","fromNode":"1008943b7c0c0cc3","fromSide":"bottom","toNode":"e6060b5ce7f42883","toSide":"top"},
+		{"id":"1a098bad2549cc03","fromNode":"1008943b7c0c0cc3","fromSide":"bottom","toNode":"921b5e7240bde223","toSide":"top"},
+		{"id":"144ba49dbfbca83a","fromNode":"821e627ee6d9a483","fromSide":"top","toNode":"7ac974c34cb5bc73","toSide":"left"},
+		{"id":"ef0109aea23c49cf","fromNode":"7ac974c34cb5bc73","fromSide":"bottom","toNode":"cf67a2d408fb55b2","toSide":"top"},
+		{"id":"df642a59014d6821","fromNode":"cf67a2d408fb55b2","fromSide":"bottom","toNode":"5d12241eee68522b","toSide":"top"},
+		{"id":"c4a5d8ca28065d0b","fromNode":"cf67a2d408fb55b2","fromSide":"bottom","toNode":"0c6ae437dc7ba986","toSide":"top"},
+		{"id":"06d8cdf7f7f4b073","fromNode":"cf67a2d408fb55b2","fromSide":"bottom","toNode":"98032fe39b3adb3d","toSide":"top"},
+		{"id":"862df8d5080d838b","fromNode":"1008943b7c0c0cc3","fromSide":"right","toNode":"0778e8cbc2a7bea3","toSide":"left"}
+	]
+}
